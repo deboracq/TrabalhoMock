@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Teste"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/dbunit-2.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/hsqldb.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/slf4j-simple-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/emma_ant.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/eclipse/plugins/emma.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/Desktop/Pós FA7/Material Mock/cglib-nodep-2.1_3-osgi.jar"/>
+	<classpathentry kind="lib" path="/Users/deboraqueiroz/Desktop/Pós FA7/Material Mock/easymock-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
